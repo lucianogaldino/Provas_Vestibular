@@ -1,0 +1,101 @@
+create database vestibular
+default character set utf8 
+default collate utf8_general_ci;
+
+use vestibular;
+
+create table fuvest (
+id int not null auto_increment,
+disciplina varchar(30), 
+ano varchar(30), 
+vestibular varchar (30),
+conteúdo varchar(30),
+primary key (id) 
+) default charset = utf8;
+
+alter table fuvest
+add column questão decimal(4);
+
+alter table fuvest
+change column vestibular fase varchar(15);
+
+alter table fuvest
+add column assunto varchar(10) after fase;
+
+alter table fuvest
+change column conteúdo conteudo varchar(30);
+
+alter table fuvest
+change column questão questao decimal(4);
+
+insert into fuvest values
+(Default, 'Física', '2016','primeira', 'mecânica', 'energia mecânica', '24'),
+(Default, 'Física', '2016','primeira', 'eletrostática', 'conservação da carga elétrica', '25'),
+(Default, 'Física', '2016','primeira', 'oscilação', 'pêndulo', '26'),
+(Default, 'Física', '2016','primeira', 'eletrodinâmica', 'circuito', '27'),
+(Default, 'Física', '2016','primeira', 'gravitação', 'aceleração da gravidade', '28'),
+(Default, 'Física', '2016','primeira', 'termodinâmica', 'estudo dos gases', '29'),
+(Default, 'Física', '2016','primeira', 'hidrostática', 'empuxo', '30'),
+(Default, 'Física', '2016','primeira', 'física moderna', 'aniquilação', '31'),
+(Default, 'Física', '2016','primeira', 'óptica', 'refração', '32'),
+(Default, 'Física', '2016','primeira', 'análise dimensonal', 'mecânica', '33');
+
+insert into fuvest values
+(Default, 'Física', '2017','primeira', 'mecânica', 'cinemática', '57'),
+(Default, 'Física', '2017','primeira', 'mecânica', 'quantidade de movimento', '58'),
+(Default, 'Física', '2017','primeira', 'mecânica', 'força resistência do ar', '59'),
+(Default, 'Física', '2017','primeira', 'mecânica', 'força elástica', '60'),
+(Default, 'Física', '2017','primeira', 'eletromagnetismo', 'campo magnético', '61'),
+(Default, 'Física', '2017','primeira', 'eletrodinâmica', 'potência', '62'),
+(Default, 'Física', '2017','primeira', 'ondulatória', 'velocidade onda', '63'),
+(Default, 'Física', '2017','primeira', 'física moderna', 'decaimento radioativo', '64'),
+(Default, 'Física', '2017','primeira', 'óptica', 'refração', '65'),
+(Default, 'Física', '2017','primeira', 'termodinâmica', 'calorimetria', '66'),
+(Default, 'Física', '2017','primeira', 'eletrostática', 'carga elétrica', '67'),
+(Default, 'Física', '2017','primeira', 'física moderna', 'fótons', '68');
+
+insert into fuvest values
+(Default, 'Física', '2018','primeira', 'termodinâmica', 'calorimetria', '1'),
+(Default, 'Física', '2018','primeira', 'óptica', 'lentes', '2'),
+(Default, 'Física', '2018','primeira', 'termodinâmica', 'calorimetria', '3'),
+(Default, 'Física', '2018','primeira', 'mecânica', 'queda dos corpos', '4'),
+(Default, 'Física', '2018','primeira', 'ondulatória', 'comprimento de onda', '5'),
+(Default, 'Física', '2018','primeira', 'mecânica', 'quantidade de movimento', '6'),
+(Default, 'Física', '2018','primeira', 'mecânica', 'equilíbrio', '7'),
+(Default, 'Física', '2018','primeira', 'física moderna', 'decaimento radioativo', '8'),
+(Default, 'Física', '2018','primeira', 'eletrostática', 'ddp', '9'),
+(Default, 'Física', '2018','primeira', 'eletrodinâmica', 'circuito', '10'),
+(Default, 'Física', '2018','primeira', 'eletrodinâmica', 'potência', '11');
+
+alter table fuvest
+modify column assunto varchar(20);
+
+insert into fuvest values
+(Default, 'Física', '2019','primeira', 'mecânica', 'pressão', '13'),
+(Default, 'Física', '2019','primeira', 'termodinâmica', 'energia térmica', '14'),
+(Default, 'Física', '2019','primeira', 'mecânica', 'velocidade angular', '15'),
+(Default, 'Física', '2019','primeira', 'mecânica', 'energia mecânica', '16'),
+(Default, 'Física', '2019','primeira', 'mecânica', 'quantidade de movimento', '17'),
+(Default, 'Física', '2019','primeira', 'eletrostática', 'força elétrica', '18'),
+(Default, 'Física', '2019','primeira', 'óptica', 'lentes', '19'),
+(Default, 'Física', '2019','primeira', 'eletrodinâmica', 'circuito', '20'),
+(Default, 'Física', '2019','primeira', 'termodinâmica', 'calorimetria', '21'),
+(Default, 'Física', '2019','primeira', 'termodinâmica', '1a lei', '22'),
+(Default, 'Física', '2019','primeira', 'óptica', 'lentes', '23'),
+(Default, 'Física', '2019','primeira', 'termodinâmica', 'calorimetria', '24');
+
+insert into fuvest values
+(Default, 'Física', '2020','primeira', 'gravitação', 'órbita', '69'),
+(Default, 'Física', '2020','primeira', 'análise dimensional', 'física moderna', '70'),
+(Default, 'Física', '2020','primeira', 'ondulatória', 'frequência', '71'),
+(Default, 'Física', '2020','primeira', 'ondulatória', 'velocidade', '72'),
+(Default, 'Física', '2020','primeira', 'gravitação', 'interdisciplinar', '73'),
+(Default, 'Física', '2020','primeira', 'mecânica', 'força elástica', '74'),
+(Default, 'Física', '2020','primeira', 'eletrodinâmica', 'circuitos', '75'),
+(Default, 'Física', '2020','primeira', 'óptica', 'telescópio', '76'),
+(Default, 'Física', '2020','primeira', 'eletromagnetismo', 'força magnética', '77'),
+(Default, 'Física', '2020','primeira', 'mecânica', 'lançamento horizontal', '78'),
+(Default, 'Física', '2020','primeira', 'ondulatória', 'pêndulo', '79'),
+(Default, 'Física', '2020','primeira', 'termodinâmica', 'transmissão de calor', '80');
+
+select * from fuvest;

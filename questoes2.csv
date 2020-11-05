@@ -1,0 +1,263 @@
+﻿id,vestibular,disciplina,ano,fase,assunto,area,conteudo,questao
+1,fuvest,Física,2016,primeira,mecânica,dinâmica,energia mecânica,24
+2,fuvest,Física,2016,primeira,eletricidade,eletrostática,conservação da carga elétrica,25
+3,fuvest,Física,2016,primeira,ondulatória,oscilações,pêndulo,26
+4,fuvest,Física,2016,primeira,eletricidade,eletrodinâmica,circuito,27
+5,fuvest,Física,2016,primeira,mecânica,gravitação,aceleração da gravidade,28
+6,fuvest,Física,2016,primeira,termologia,estudo dos gases,lei dos gases,29
+7,fuvest,Física,2016,primeira,mecânica,hidrostática,empuxo,30
+8,fuvest,Física,2016,primeira,física moderna,relatividade,aniquilação,31
+9,fuvest,Física,2016,primeira,óptica,óptica geométrica,refração,32
+10,fuvest,Física,2016,primeira,mecânica,dinâmica,análise dimensional,33
+11,fuvest,Física,2017,primeira,mecânica,cinemática,gráfico mruv,57
+12,fuvest,Física,2017,primeira,mecânica,dinâmica,quantidade de movimento,58
+13,fuvest,Física,2017,primeira,mecânica,dinâmica,força resistência do ar,59
+14,fuvest,Física,2017,primeira,mecânica,dinâmica,força elástica,60
+15,fuvest,Física,2017,primeira,eletricidade,eletromagnetismo,campo magnético,61
+16,fuvest,Física,2017,primeira,eletricidade,eletrodinâmica,potência,62
+17,fuvest,Física,2017,primeira,ondulatória,ondas mecânicas,velocidade onda,63
+18,fuvest,Física,2017,primeira,física moderna,física nuclear,decaimento radioativo,64
+19,fuvest,Física,2017,primeira,óptica,óptica geométrica,refração,65
+20,fuvest,Física,2017,primeira,termologia,calorimetria,conservação,66
+21,fuvest,Física,2017,primeira,eletricidade,eletrostática,carga elétrica,67
+22,fuvest,Física,2017,primeira,física moderna,física quântica,fótons,68
+23,fuvest,Física,2018,primeira,termologia,transferência de calor,lei de fourier,1
+24,fuvest,Física,2018,primeira,óptica,óptica geométrica,lentes,2
+25,fuvest,Física,2018,primeira,termologia,calorimetria,energia térmica,3
+26,fuvest,Física,2018,primeira,mecânica,cinemática,queda dos corpos,4
+27,fuvest,Física,2018,primeira,ondulatória,ondas mecânicas,comprimento de onda,5
+28,fuvest,Física,2018,primeira,mecânica,dinâmica,quantidade de movimento,6
+29,fuvest,Física,2018,primeira,mecânica,estática,equilíbrio,7
+30,fuvest,Física,2018,primeira,física moderna,física nuclear,decaimento radioativo,8
+31,fuvest,Física,2018,primeira,eletricidade,eletrostática,ddp,9
+32,fuvest,Física,2018,primeira,eletricidade,eletrodinâmica,circuito,10
+33,fuvest,Física,2018,primeira,eletricidade,eletrodinâmica,potência,11
+34,fuvest,Física,2019,primeira,mecânica,estática,pressão,13
+35,fuvest,Física,2019,primeira,termologia,calorimetria,energia térmica,14
+36,fuvest,Física,2019,primeira,mecânica,cinemática,velocidade angular,15
+37,fuvest,Física,2019,primeira,mecânica,dinâmica,energia mecânica,16
+38,fuvest,Física,2019,primeira,mecânica,dinâmica,quantidade de movimento,17
+39,fuvest,Física,2019,primeira,eletricidade,eletrostática,força elétrica,18
+40,fuvest,Física,2019,primeira,óptica,óptica geométrica,lentes,19
+41,fuvest,Física,2019,primeira,eletricidade,eletrodinâmica,circuito,20
+42,fuvest,Física,2019,primeira,termologia,calorimetria,conservação,21
+43,fuvest,Física,2019,primeira,termologia,termodinâmica,1a lei,22
+44,fuvest,Física,2019,primeira,óptica,óptica geométrica,lentes,23
+45,fuvest,Física,2019,primeira,termologia,calorimetria,quantidade calor,24
+46,fuvest,Física,2020,primeira,mecânica,gravitação,período,69
+47,fuvest,Física,2020,primeira,física moderna,física quântica,análise dimensional,70
+48,fuvest,Física,2020,primeira,ondulatória,ondas mecânicas,frequência,71
+49,fuvest,Física,2020,primeira,ondulatória,ondas mecânicas,velocidade,72
+50,fuvest,Física,2020,primeira,mecânica,gravitação,velocidade de escape,73
+51,fuvest,Física,2020,primeira,mecânica,dinâmica,força elástica,74
+52,fuvest,Física,2020,primeira,eletricidade,eletrodinâmica,circuito,75
+53,fuvest,Física,2020,primeira,óptica,óptica geométrica,telescópio,76
+54,fuvest,Física,2020,primeira,eletricidade,eletromagnetismo,força magnética,77
+55,fuvest,Física,2020,primeira,mecânica,cinemática,lançamento,78
+56,fuvest,Física,2020,primeira,ondulatória,oscilação,pêndulo,79
+57,fuvest,Física,2020,primeira,termologia,transferência de calor,convecção,80
+58,unicamp,Física,2020,primeira,mecânica,cinemática,gráfico mruv,70
+59,unicamp,Física,2020,primeira,mecânica,dinâmica,energia cinética,71
+60,unicamp,Física,2020,primeira,mecânica,dinâmica,quantidade de movimento,72
+61,unicamp,Física,2020,primeira,mecânica,cinemática,aceleração centrípeta,73
+62,unicamp,Física,2020,primeira,mecânica,estática,equilíbrio,74
+63,unicamp,Física,2020,primeira,termologia,estudo dos gases,lei Clapeyron,75
+64,unicamp,Física,2020,primeira,eletricidade,eletrostática,trabalho força elétrica,76
+65,unicamp,Física,2020,primeira,ondulatória,ondas mecânicas,frequência,77
+66,unicamp,Física,2020,primeira,óptica,óptica geométrica,lentes,78
+67,unicamp,Física,2020,primeira,eletricidade,eletrodinâmica,circuito,79
+68,unicamp,Física,2019,primeira,mecânica,cinemática,mru,38
+69,unicamp,Física,2019,primeira,mecânica,hidrostática,empuxo,39
+70,unicamp,Física,2019,primeira,eletricidade,eletrodinâmica,corrente elétrica,40
+71,unicamp,Física,2019,primeira,mecânica,hidrostática,pressão hidrostática,41
+72,unicamp,Física,2019,primeira,termologia,transferência de calor,lei de Fourier,42
+73,unicamp,Física,2019,primeira,ondulatória,ondas mecânicas,energia,43
+74,unicamp,Física,2019,primeira,termologia,calorimetria,quantidade de calor,44
+75,unicamp,Física,2019,primeira,ondulatória,ondas mecânicas,frequência,45
+76,unicamp,Física,2019,primeira,óptica,óptica física,visão,46
+77,unicamp,Física,2018,primeira,mecânica,dinâmica,leis de Newton,38
+78,unicamp,Física,2018,primeira,mecânica,estática,equilíbrio,39
+79,unicamp,Física,2018,primeira,mecânica,gravitação,órbita,40
+80,unicamp,Física,2018,primeira,mecânica,gravitação,aceleração da gravidade,41
+81,unicamp,Física,2018,primeira,mecânica,dinâmica,trabalho,42
+82,unicamp,Física,2018,primeira,mecânica,estática,pressão,43
+83,unicamp,Física,2018,primeira,eletricidade,eletrodinâmica,potência,44
+84,unicamp,Física,2018,primeira,termologia,calorimetria,energia térmica,45
+85,unicamp,Física,2018,primeira,eletricidade,eletrodinâmica,circuito,46
+86,unicamp,Física,2018,primeira,termologia,transferência de calor,condução,47
+87,unicamp,Física,2018,primeira,óptica,óptica geométrica,lentes,48
+88,unicamp,Física,2017,primeira,mecânica,cinemática,velocidade média,57
+89,unicamp,Física,2017,primeira,mecânica,cinemática,gráfico mruv,58
+90,unicamp,Física,2017,primeira,mecânica,estática,equilíbrio,59
+91,unicamp,Física,2017,primeira,mecânica,dinâmica,energia,60
+92,unicamp,Física,2017,primeira,termologia,estudo dos gases,lei dos gases,61
+93,unicamp,Física,2017,primeira,mecânica,hidrostática,princípio de Pascal,62
+94,unicamp,Física,2017,primeira,eletricidade,eletrodinâmica,corrente elétrica,63
+95,unicamp,Física,2017,primeira,ondulatória,ondas mecânicas,frequência,64
+96,unicamp,Física,2017,primeira,óptica,óptica geométrica,espelho esférico,65
+97,unicamp,Física,2016,primeira,mecânica,cinemática,velocidade média,1
+98,unicamp,Física,2016,primeira,mecânica,cinemática,mruv,2
+99,unicamp,Física,2016,primeira,termologia,transferência de calor,tipos de transferência,3
+100,unicamp,Física,2016,primeira,mecânica,dinâmica,trabalho,4
+101,unicamp,Física,2016,primeira,óptica,óptica física,raio de luz,5
+102,unicamp,Física,2016,primeira,mecânica,dinâmica,quantidade de movimento,6
+103,unicamp,Física,2016,primeira,eletricidade,eletrodinâmica,resistência,7
+104,unicamp,Física,2016,primeira,ondulatória,ondas mecânicas,frequência,8
+105,unicamp,Física,2016,primeira,mecânica,cinemática,mcu,9
+106,unicamp,Física,2016,primeira,mecânica,dinâmica,quantidade de movimento,10
+107,unesp,Física,2017,primeira_1sem,mecânica,cinemática,mcu,77
+108,unesp,Física,2017,primeira_1sem,mecânica,dinâmica,força,78
+109,unesp,Física,2017,primeira_1sem,mecânica,cinemática,lançamento,79
+110,unesp,Física,2017,primeira_1sem,óptica,óptica geométrica,refração,80
+111,unesp,Física,2017,primeira_1sem,ondulatória,ondas sonoras,velocidade,81
+112,unesp,Física,2017,primeira_1sem,eletricidade,eletrostática,campo elétrico,82
+113,unesp,Física,2017,primeira_1sem,eletricidade,eletromagnetismo,campo magnético,83
+114,unesp,Física,2018,primeira_2sem,mecânica,cinemática,aceleração média,76
+115,unesp,Física,2018,primeira_2sem,mecânica,dinâmica,força resultante,77
+116,unesp,Física,2018,primeira_2sem,mecânica,hidrostática,pressão hidrostática,78
+117,unesp,Física,2018,primeira_2sem,termologia,calorimetria,quantidade de calor,79
+118,unesp,Física,2018,primeira_2sem,óptica,óptica geométrica,lentes,80
+119,unesp,Física,2018,primeira_2sem,eletricidade,eletrostática,força elétrica,81
+120,unesp,Física,2018,primeira_2sem,eletricidade,eletrodinâmica,circuito,82
+121,unesp,Física,2019,primeira_1sem,mecânica,estática,equilíbrio,76
+122,unesp,Física,2019,primeira_1sem,mecânica,estática,equilíbrio,77
+123,unesp,Física,2019,primeira_1sem,mecânica,estática,equilíbrio,78
+124,unesp,Física,2019,primeira_1sem,física moderna,física quântica,teoria atômica,79
+125,unesp,Física,2019,primeira_1sem,termologia,calorimetria,conservação,80
+126,unesp,Física,2019,primeira_1sem,óptica,óptica geométrica,refração,81
+127,unesp,Física,2019,primeira_1sem,eletricidade,eletromagnetismo,campo magnético,82
+128,unesp,Física,2020,primeira_1sem,mecânica,cinemática,mruv,76
+129,unesp,Física,2020,primeira_1sem,mecânica,gravitação,leis de Kepler,77
+130,unesp,Física,2020,primeira_1sem,mecânica,dinâmica,energia,78
+131,unesp,Física,2020,primeira_1sem,termologia,calorimetria,conservação,79
+132,unesp,Física,2020,primeira_1sem,óptica,óptica geométrica,lentes,80
+133,unesp,Física,2020,primeira_1sem,física moderna,física quântica,energia,81
+134,unesp,Física,2020,primeira_1sem,eletricidade,eletrodinâmica,potência,82
+135,unesp,Física,2016,primeira_1sem,mecânica,cinemática,mru,76
+136,unesp,Física,2016,primeira_1sem,mecânica,cinemática,mcu,77
+137,unesp,Física,2016,primeira_1sem,mecânica,dinâmica,força,78
+138,unesp,Física,2016,primeira_1sem,mecânica,cinemática,lançamento,79
+139,unesp,Física,2016,primeira_1sem,termologia,estudo dos gases,transformações,80
+140,unesp,Física,2016,primeira_1sem,óptica,óptica geométrica,espelhos esféricos,81
+141,unesp,Física,2016,primeira_1sem,ondulatória,ondas mecânicas,comprimento onda,82
+142,unesp,Física,2016,primeira_1sem,eletricidade,eletrodinâmica,potência,83
+143,unesp,Física,2018,primeira_1sem,mecânica,cinemática,velocidade média,76
+144,unesp,Física,2018,primeira_1sem,mecânica,dinâmica,força elástica,77
+145,unesp,Física,2018,primeira_1sem,mecânica,cinemática,lançamento oblíquo,78
+146,unesp,Física,2018,primeira_1sem,termologia,transferência de calor,fluxo térmico,79
+147,unesp,Física,2018,primeira_1sem,óptica,óptica geométrica,lentes,80
+148,unesp,Física,2018,primeira_1sem,ondulatória,ondas sonoras,nível sonoro,81
+149,unesp,Física,2018,primeira_1sem,eletricidade,eletrodinâmica,circuito,82
+150,enem,física,2019,segunda,mecânica,cinemática,velocidade média,91
+151,enem,física,2019,segunda,mecânica,dinâmica,força,103
+152,enem,física,2019,segunda,mecânica,gravitação,eclipse,107
+153,enem,física,2019,segunda,mecânica,cinemática,movimento relativo,109
+154,enem,física,2019,segunda,termologia,termodinâmica,leis da termodinâmica,115
+155,enem,física,2019,segunda,óptica,óptica geométrica,lentes ,118
+156,enem,física,2019,segunda,óptica,óptica física,laser,132
+157,enem,física,2019,primeira,eletricidade,eletrodinâmica,circuito,91
+158,enem,física,2019,primeira,eletricidade,eletrostática,carga elétrica,95
+159,enem,física,2019,primeira,mecânica,dinâmica,energia,97
+160,enem,física,2019,primeira,termologia,estudo dos gases,lei dos gases,100
+161,enem,física,2019,primeira,mecânica,dinâmica,quantidade de movimento,107
+162,enem,física,2019,primeira,eletricidade,eletromagnetismo,campo magnético,109
+163,enem,física,2019,primeira,termologia,calorimetria,quantidade de calor,113
+164,enem,física,2019,primeira,mecânica,estática,equilíbrio,117
+165,enem,física,2019,primeira,mecânica,gravitação,órbita,120
+166,enem,física,2019,primeira,termologia,transferência de calor,lei de Fourier,122
+167,enem,física,2019,primeira,mecânica,cinemática,velocidade,135
+168,enem,física,2018,segunda,termologia,transferência de calor,radiação,92
+169,enem,física,2018,segunda,mecânica,dinâmica,energia,94
+170,enem,física,2018,segunda,eletricidade,eletrodinâmica,tensão,98
+171,enem,física,2018,segunda,mecânica,dinâmica,força peso,107
+172,enem,física,2018,segunda,eletricidade,eletrodinâmica,circuito,108
+173,enem,física,2018,segunda,eletricidade,eletrostática,carga elétrica,111
+174,enem,física,2018,segunda,ondulatória,ondas mecânicas,ultrassom,117
+175,enem,física,2018,segunda,física moderna,física nuclear,decaimento radioativo,118
+176,enem,física,2018,segunda,mecânica,dinâmica,força de atrito,122
+177,enem,física,2018,segunda,mecânica,hidrostática,pressão,126
+178,enem,física,2018,segunda,ondulatória,ondas sonoras,qualidades do som,127
+179,enem,física,2018,segunda,termologia,calorimetria,potência,128
+180,enem,física,2018,segunda,eletricidade,eletrostática,carga elétrica,130
+181,enem,física,2018,segunda,física moderna,física nuclear,decaimento radioativo,131
+182,enem,física,2018,primeira,eletricidade,eletromagnetismo,ondas eletromagnéticas,92
+183,enem,física,2018,primeira,óptica,óptica geométrica,cores,96
+184,enem,física,2018,primeira,mecânica,dinâmica,força elástica,98
+185,enem,física,2018,primeira,mecânica,hidrostática,pressão,103
+186,enem,física,2018,primeira,eletricidade,eletrodinâmica,circuito,106
+187,enem,física,2018,primeira,eletricidade,eletrodinâmica,energia,109
+188,enem,física,2018,primeira,eletricidade,eletrodinâmica,resistência,110
+189,enem,física,2018,primeira,ondulatória,ondas sonoras,sonar,117
+190,enem,física,2018,primeira,eletricidade,eletrodinâmica,circuito,124
+191,enem,física,2018,primeira,óptica,óptica geométrica,prisma,128
+192,enem,física,2018,primeira,mecânica,cinemática,velocidade média,131
+193,enem,física,2018,primeira,mecânica,estática,centro de massa,133
+194,enem,física,2017,segunda,óptica,óptica física,difração,93
+195,enem,física,2017,segunda,mecânica,cinemática,movimento relativo,96
+196,enem,física,2017,segunda,eletricidade,eletromagnetismo,ondas eletromagnéticas,99
+197,enem,física,2017,segunda,eletricidade,eletromagnetismo,ondas eletromagnéticas,101
+198,enem,física,2017,segunda,mecânica,gravitação,órbita,104
+199,enem,física,2017,segunda,eletricidade,eletrodinâmica,gerador,110
+200,enem,física,2017,segunda,termologia,calorimetria,potência,112
+201,enem,física,2017,segunda,física moderna,física nuclear,decaimento radioativo,117
+202,enem,física,2017,segunda,eletricidade,eletrodinâmica,resistência,120
+203,enem,física,2017,segunda,eletricidade,eletrodinâmica,tensão,123
+204,enem,física,2017,segunda,termologia,transferência de calor,leis da termodinâmica,124
+205,enem,física,2017,segunda,termologia,calorimetria,quantidade de calor,127
+206,enem,física,2017,segunda,óptica,óptica geométrica,lentes,131
+207,enem,física,2017,segunda,termologia,calorimetria,potência,132
+208,enem,física,2017,primeira,mecânica,dinâmica,colisão,93
+209,enem,física,2017,primeira,eletricidade,eletromagnetismo,ondas eletromagnéticas,99
+210,enem,física,2017,primeira,eletricidade,eletromagnetismo,transmissão,101
+211,enem,física,2017,primeira,eletricidade,eletrodinâmica,resistência,108
+212,enem,física,2017,primeira,eletricidade,eletrodinâmica,circuito,111
+213,enem,física,2017,primeira,ondulatória,ondas sonoras,frequência,113
+214,enem,física,2017,primeira,eletricidade,eletromagnetismo,ondas eletromagnéticas,123
+215,enem,física,2017,primeira,mecânica,dinâmica,energia,124
+216,enem,física,2017,primeira,mecânica,cinemática,mruv,125
+217,enem,física,2017,primeira,eletricidade,eletromagnetismo,campo magnético,127
+218,enem,física,2017,primeira,eletricidade,eletrodinâmica,tensão,130
+219,enem,física,2017,primeira,termologia,calorimetria,potência,134
+220,enem,física,2017,primeira,óptica,óptica física,olho humano,135
+221,enem,física,2016,terceira,mecânica,hidrostática,empuxo,48
+222,enem,física,2016,terceira,eletricidade,eletrodinâmica,energia,55
+223,enem,física,2016,terceira,eletricidade,eletrodinâmica,energia,58
+224,enem,física,2016,terceira,mecânica,dinâmica,potência,61
+225,enem,física,2016,terceira,mecânica,cinemática,velocidade média,66
+226,enem,física,2016,terceira,eletricidade,eletromagnetismo,ondas eletromagnéticas,68
+227,enem,física,2016,terceira,eletricidade,eletrodinâmica,energia,69
+228,enem,física,2016,terceira,eletricidade,eletromagnetismo,ondas eletromagnéticas,70
+229,enem,física,2016,terceira,eletricidade,eletromagnetismo,ondas eletromagnéticas,73
+230,enem,física,2016,terceira,ondulatória,ondas mecânicas,comprimento de onda,78
+231,enem,física,2016,terceira,eletricidade,eletrostática,campo elétrico,79
+232,enem,física,2016,terceira,eletricidade,eletrodinâmica,corrente elétrica,80
+233,enem,física,2016,terceira,eletricidade,eletrodinâmica,gerador,83
+234,enem,física,2016,terceira,óptica,óptica geométrica,princípios,87
+235,enem,física,2016,terceira,física moderna,física nuclear,fissão,90
+236,enem,física,2016,segunda,eletricidade,eletrostática,capacitância,48
+237,enem,física,2016,segunda,óptica,óptica física,polarização,50
+238,enem,física,2016,segunda,mecânica,gravitação,órbita,53
+239,enem,física,2016,segunda,eletricidade,eletrodinâmica,corrente elétrica,58
+240,enem,física,2016,segunda,termologia,termodinâmica,leis da termodinâmica,61
+241,enem,física,2016,segunda,termologia,calorimetria,quantidade de calor,65
+242,enem,física,2016,segunda,termologia,termodinâmica,leis da termodinâmica,70
+243,enem,física,2016,segunda,eletricidade,eletrodinâmica,potência,75
+244,enem,física,2016,segunda,ondulatória,ondas sonoras,qualidades do som,79
+245,enem,física,2016,segunda,mecânica,cinemática,velocidade média,81
+246,enem,física,2016,segunda,eletricidade,eletromagnetismo,ondas eletromagnéticas,84
+247,enem,física,2016,segunda,mecânica,cinemática,lançamento horizontal,87
+248,enem,física,2016,segunda,mecânica,estática,equilíbrio,90
+249,enem,física,2016,primeira,ondulatória,ondas sonoras,efeito Doppler,46
+250,enem,física,2016,primeira,eletricidade,eletrodinâmica,circuito,51
+251,enem,física,2016,primeira,mecânica,cinemática,mruv,54
+252,enem,física,2016,primeira,ondulatória,ondas sonoras,efeito Doppler,56
+253,enem,física,2016,primeira,eletricidade,eletrodinâmica,potência,59
+254,enem,física,2016,primeira,eletricidade,eletrodinâmica,resistência,61
+255,enem,física,2016,primeira,eletricidade,eletromagnetismo,campo magnético,64
+256,enem,física,2016,primeira,mecânica,dinâmica,colisão,69
+257,enem,física,2016,primeira,mecânica,dinâmica,polias,72
+258,enem,física,2016,primeira,termologia,transferência de calor,condução,74
+259,enem,física,2016,primeira,ondulatória,ondas sonoras,nível sonoro,77
+260,enem,física,2016,primeira,termologia,calorimetria,potência,76
+261,enem,física,2016,primeira,mecânica,cinemática,movimento circular,80
+262,enem,física,2016,primeira,ondulatória,ondas mecânicas,ondas estacionárias,90
